@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionfpdate",
+        "uuid": 2198352,
+        "checksum": "rslgwl"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
